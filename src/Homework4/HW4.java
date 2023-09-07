@@ -62,5 +62,5 @@ public class HW4 {
             else System.out.println("Осталось меньше часа, всего лишь " + minutes + " минуты");
         }
     }
-
+// ССЫЛКА НА ТЕСТ JAVA https://docs.google.com/document/d/1zXB-6ZRQyu3MnNN_ZYeuNJwVRLjiB4io2mb9fCV6bmg/edit#heading=h.5u27tf70frj0
 }
